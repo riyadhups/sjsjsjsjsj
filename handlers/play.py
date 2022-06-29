@@ -198,8 +198,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
                       [
             [
-                InlineKeyboardButton("📣 Rəsmi Kanalı", url=f"https://t.me/SecretMMC"),
                 InlineKeyboardButton("🥂 Blog Kanalı", url=f"https://t.me/ElegantBlog"),
+                InlineKeyboardButton("📣 Rəsmi Kanalı", url=f"https://t.me/SecretMMC"),
             ],[
                 InlineKeyboardButton("🗑️ Menyunu Bağla", callback_data="cls"),
             ],
@@ -263,8 +263,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
                       [
             [
-                InlineKeyboardButton("📣 Rəsmi Kanalı", url=f"https://t.me/SecretMMC"),
                 InlineKeyboardButton("🥂 Blog Kanalı", url=f"https://t.me/ElegantBlog"),
+                InlineKeyboardButton("📣  Blog Kanalı", url=f"https://t.me/ElegantBlog"),
             ],[
                 InlineKeyboardButton("🗑️ Menyunu Bağla", callback_data="cls"),
             ],
