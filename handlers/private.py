@@ -16,15 +16,15 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✅ Məni öz qrubuna əlavə et ✅", url=f"https://t.me/LegendMucisRobot?startgroup=true"
+                        "✅ Məni öz qrubuna əlavə et ✅", url=f"https://t.me/KafkazMusicbot?startgroup=true"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🧔🏻Sahibim", url="https://t.me/o2o_GenCeLi"
+                        "🧑‍💻Sahibim", url="https://t.me/TheThagiyevv"
                     ),
                     InlineKeyboardButton(
-                        "🇦🇿Rəsmi Kanal", url="https://t.me/SecretMMC"
+                        "🇦🇿Rəsmi Kanal", url="https://t.me/RiyaddBlog"
                     )
                 ],
                 [
@@ -115,15 +115,15 @@ async def cbstart(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "✅ Məni öz qrubuna əlavə et ✅", url=f"https://t.me/LegendMucisRobot?startgroup=true"
+                        "✅ Məni öz qrubuna əlavə et ✅", url=f"https://t.me/KafkazMusicbot?startgroup=true"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🧔🏻Sahibim", url="https://t.me/o2o_GenCeLi"
+                        "🧑‍💻Sahibim", url="https://t.me/TheThagiyevv"
                     ),
                     InlineKeyboardButton(
-                        "🇦🇿Rəsmi Kanal", url="https://t.me/SecretMMC"
+                        "🇦🇿Rəsmi Kanal", url="https://t.me/RiyaddBlog"
                     )
                 ],
                 [
